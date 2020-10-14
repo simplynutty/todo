@@ -1,0 +1,32 @@
+{
+  "author": "Jon West (https://github.com/simplynutty)",
+  "bugs": "https://github.com/simplynutty/todo/issues",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
+    "lodash": "^4.17.19",
+    "moment": "^2.29.0",
+    "next": "latest",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.1.1"
+  },
+  "description": "ToDo App",
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.8.0"
+  },
+  "homepage": "https://github.com/simplynutty/todo",
+  "keywords": [],
+  "license": "ISC",
+  "name": "todo",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:simplynutty/todo.git"
+  },
+  "scripts": {
+    "build": "next build",
+    "dev": "next",
+    "start": "next start"
+  },
+  "version": "1.0.0"
+}
